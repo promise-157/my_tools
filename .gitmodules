@@ -1,0 +1,6 @@
+[submodule "src/3rdparty/i2cdevlib"]
+	path = src/3rdparty/i2cdevlib
+	url = https://github.com/promise-157/i2cdevlib.git
+[submodule "src/3rdparty/C-Plus-Plus"]
+	path = src/3rdparty/C-Plus-Plus
+	url = https://github.com/promise-157/C-Plus-Plus.git
